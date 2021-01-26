@@ -1,6 +1,6 @@
 # Calculator
 
-This is a Vanilla Javascript Calculator in the browser.
+This is a fully functional Vanilla Javascript Calculator.
 
-I gained a deeper understanding of how things connect and cordinate together in JS to create a finished product. 
+Making this project I gained a deeper understanding of how things connect and cordinate together in JS to create a finished product. 
 This was a neat project.
